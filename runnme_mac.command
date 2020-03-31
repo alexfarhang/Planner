@@ -1,3 +1,6 @@
-cd "/Users/shayo/Dropbox (MIT)/Code/Github/Planner"
-/Applications/MATLAB_R2016a.app/Contents/MacOS/MATLAB_maci64  -nosplash -r "cd('/Users/shayo/Dropbox (MIT)/Code/Github/Planner');addpath(genpath(pwd())); EntryPoint" 
+cd "~/git/Planner"
+/Applications/MATLAB_R2018b.app/Contents/MacOS/MATLAB_maci64  -nosplash -r "cd('~/git/Planner');addpath(genpath(pwd())); EntryPoint"
 
+
+#/Applications/MATLAB_R2018.app/Contents/MacOS/MATLAB_maci64  -nosplash -r "cd('~/git/Planner');addpath(genpath(pwd())); EntryPoint"
+#
